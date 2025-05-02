@@ -64,6 +64,6 @@ Nota adicionada com sucesso!
 - Suporte para importação de notas via arquivos .csv.
 
 ## 🧑‍💻 Autor
-Desenvolvido por [@Devmoises79].
-Entre em contato: [https://www.linkedin.com/in/moises-aniceto-71042a251/] | LinkedIn
+- Desenvolvido por [@Devmoises79].
+- Entre em contato: [https://www.linkedin.com/in/moises-aniceto-71042a251/] | LinkedIn
 
