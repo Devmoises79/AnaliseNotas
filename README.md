@@ -2,21 +2,21 @@
 Este é um sistema simples em Python para registro e análise de notas de alunos, com funcionalidades para calcular estatísticas como média, mediana, moda, desvio padrão, maior e menor nota.
 
 ##  Funcionalidades 👨🏾‍💻
-Adicionar notas individuais (valores entre 0 e 10).
+- Adicionar notas individuais (valores entre 0 e 10).
 
-Gerar relatório estatístico com:
+- Gerar relatório estatístico com:
 
-Lista de notas cadastradas
+- Lista de notas cadastradas
 
-Média
+- Média
 
-Mediana
+- Mediana
 
-Moda (com tratamento para ausência de moda única)
+- Moda (com tratamento para ausência de moda única)
 
-Desvio padrão (se houver pelo menos 2 notas)
+- Desvio padrão (se houver pelo menos 2 notas)
 
-Maior e menor nota
+- Maior e menor nota
 
 # 📦 Requisitos
 Python 3.x
@@ -57,11 +57,11 @@ Nota adicionada com sucesso!
 ```
 
 ## 🔧 Possíveis Melhorias Futuras
-Armazenar as notas em arquivo (persistência).
+- Armazenar as notas em arquivo (persistência).
 
-Interface gráfica com Tkinter ou PyQt.
+- Interface gráfica com Tkinter ou PyQt.
 
-Suporte para importação de notas via arquivos .csv.
+- Suporte para importação de notas via arquivos .csv.
 
 ## 🧑‍💻 Autor
 Desenvolvido por [@Devmoises79].
